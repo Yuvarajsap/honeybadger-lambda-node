@@ -1,1 +1,13 @@
-{}
+{
+	"preview": false,
+	"result": {
+		"job": "nscdlu8317_w15-repgii",
+		"Status": "SUCCESS",
+		"_time": "2018-01-22T10:12:55.000+0000",
+		"source": "/opt/CA/WorkloadAutomationAE/autouser.PRD/out/event_demon.PRD",
+		"host": "us-autp2lasaut1",
+		"machine": "nke-lnx-bat-p002",
+		"event": "CHANGE_STATUS",
+		"exitcodestatus": "0"
+	}
+}
